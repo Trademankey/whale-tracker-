@@ -15,7 +15,8 @@ Real-time EVM whale transaction tracker with risk scoring, Redis publishing, and
 ## Setup
 
 ```bash
-cd /Users/kryptoknight/Desktop/Scraper-Whaletracker
+git clone https://github.com/Trademankey/whale-tracker-.git
+cd whale-tracker-
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
